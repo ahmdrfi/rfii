@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     height: 100vh;
-    background-color: #838383;
+    background-color: white;
 }
 
 .container {
